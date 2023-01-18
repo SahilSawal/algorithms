@@ -11,6 +11,6 @@ for(var i=list.length;i>0;i--){
         }
     }
 }
-return list
+return list;
 }
 console.log(bubblesort(list));
